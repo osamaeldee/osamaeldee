@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  Osama's Profile
+  <title>Osama's Profile</title>
 </head>
 <body>
 
 <h1 align="center">Hi 👋, I'm Osama</h1>
-<h3 align="center">A passionate frontend developer and professional application developer using [Flutter] and many other skills from India</h3>
+<h3 align="center">A passionate frontend developer and professional application developer using Flutter and many other skills from India</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/164940168?v=4&size=200" alt="Programmer Image" width="200" />
+  <img src="https://deeplor.s3.us-west-2.amazonaws.com/upload/2024/07/14/112f40f7dc6a4cbf974b272775c481c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240714T142034Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10799&X-Amz-Credential=AKIAROYXHKZUSZONTWIG%2F20240714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Signature=609a9042b6df27a72871abc2a8223b9dd77bc1105ff5f0a0271721ef0f923250" alt="Programmer Image" width="200" />
 </p>
 
 <p align="center">
