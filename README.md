@@ -11,7 +11,7 @@
 <h3 align="center">A passionate frontend developer and professional application developer using [Flutter] and many other skills from India</h3>
 
 <p align="center">
-  <img src="https://png.pngtree.com/thumb_back/fh260/background/20230524/pngtree-female-programmer-in-front-of-computer-screens-image_2672427.jpg" alt="Programmer Image" />
+  <img src="https://avatars.githubusercontent.com/u/164940168?v=4&size=200" alt="Programmer Image" width="200" />
 </p>
 
 <p align="center">
